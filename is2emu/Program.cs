@@ -14,8 +14,8 @@ namespace is2emu
         [STAThread]
         static void Main()
         {
-            using (var game = new Game1())
-                game.Run();
+            using (var emulator = new EmulatorIS2())
+                emulator.Run();
         }
     }
 #endif
