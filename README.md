@@ -1,4 +1,5 @@
 ﻿# IntelliSTAR 2 Emulator (is2emu)
+[![Build Status](https://travis-ci.org/stagedblue/is2emu.svg?branch=master)](https://travis-ci.org/stagedblue/is2emu)
 ## Usage
 todo
 ## Building
