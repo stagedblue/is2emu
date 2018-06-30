@@ -42,7 +42,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="EmulatorIS2.cs" />
-    <Compile Include="Palette.cs" />
+    <Compile Include="Palettes\DefaultPalette.cs" />
+    <Compile Include="Palettes\Palette.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
