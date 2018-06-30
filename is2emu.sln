@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is2emu", "is2emu\is2emu.csproj", "{0AEB8255-6444-41E8-9830-D1B405803019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEB8255-6444-41E8-9830-D1B405803019}.Debug|x86.ActiveCfg = Debug|x86
+		{0AEB8255-6444-41E8-9830-D1B405803019}.Debug|x86.Build.0 = Debug|x86
+		{0AEB8255-6444-41E8-9830-D1B405803019}.Release|x86.ActiveCfg = Release|x86
+		{0AEB8255-6444-41E8-9830-D1B405803019}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4380FD-1F30-406D-BA15-E85CA503D462}
+	EndGlobalSection
+EndGlobal
