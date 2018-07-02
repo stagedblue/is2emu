@@ -31,6 +31,7 @@ namespace is2emu
 
         protected override void LoadContent()
         {
+            spriteBatch = new SpriteBatch(GraphicsDevice);
             //TODO: Load Akko Pro fonts from Content (do not distribute!)
             //TODO: Load Icons from Content (do not distribute: https://drive.google.com/open?id=0B6fWQWXuE09OOWtBOXJNX190TDQ SVGs zip, this is from TWC themselves, if not working, download straight from weather.com)
             //TODO: Load Background
