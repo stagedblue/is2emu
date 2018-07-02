@@ -2,4 +2,3 @@ language: csharp
 solution: is2emu.sln
 install:
   - nuget restore is2emu.sln
-  - nuget update is2emu.sln
